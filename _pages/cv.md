@@ -11,22 +11,73 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aerospace Engineering, The University of Texas at Austin, 2014
+* B.S. in Computer Science, The University of Texas at Austin, 2014
+* B.S. in Mathematics, The University of Texas at Austin, 2014
+* M.S. in Computational Science, Engineering, and Mathematics, The University of Texas at Austin, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2018 to Present: Lead R&D Engineer
+  * EyeLock
+  * Duties included: System Architect and Lead R&D Engineer for Iris recognition technology. Created roadmaps and project schedules for future features and products. Led the Embedded Algorithm and R&D teams to design novel vision algorithms and verification tools that enhance the overall product stability and feature set. Mentored teams to produce consistent, updated, and reliable code that works in multiple environments. Worked with R&D Team to produce simulation software to accurately predict hardware performance, with the intention of estimating hardware yields and future designs.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2017 to September 2018: Scientific Applications Researcher
+  * Advanced Micro Devices
+  * Duties included: Worked with a small team to write several proposals, including the winning $600 Million DoE Frontier contract. Liaised with The Department of Energy to study exascale computing architectures and conduct research on elements critical to building the next generation supercomputer. Worked with lead scientist to port hydrodynamics, molecular dynamics, and neutron transport applications to run on AMD hardware while simultaneously consulted with low-level hardware specialist to create simulations. Interfaced between the DOE and other AMD research teams to provide consistent software solutions throughout AMD Research. Presented research to company wide meetings in order to drive the development of hardware to accommodate general HPC application trends. Identified overlap in contractual software requirements and managed the consolidation effort. Used a combination of HCC/C++AMP, C, C++ 11/17, Fortran, OpenMP 3.1/4.5, OpenACC, MPI, and OpenCL to complete this research.
   
+* September 2016 to June 2017: O'Donnell PhD Fellow
+  * The University of Texas at Austin (Oden Institute)
+  * Duties included: Full-time PhD studies and research for Computational Science, Engineering, and Mathematics. Received Stipend and Fellowship from the O'Donnell Foundation.
+
+* August 2014 to September 2016: Scientific Applications Researcher
+  * Advanced Micro Devices
+  * Duties included: Worked with a small team to write several proposals, including the winning $600 Million DoE Frontier contract. Liaised with The Department of Energy to study exascale computing architectures and conduct research on elements critical to building the next generation supercomputer. Worked with lead scientist to port hydrodynamics, molecular dynamics, and neutron transport applications to run on AMD hardware while simultaneously consulted with low-level hardware specialist to create simulations. Interfaced between the DOE and other AMD research teams to provide consistent software solutions throughout AMD Research. Presented research to company wide meetings in order to drive the development of hardware to accommodate general HPC application trends. Identified overlap in contractual software requirements and managed the consolidation effort. Used a combination of HCC/C++AMP, C, C++ 11/17, Fortran, OpenMP 3.1/4.5, OpenACC, MPI, and OpenCL to complete this research.
+  
+* July 2014 to April 2015: Software Engineering Consultant
+  * ForeFlight
+  * Duties included: Created interfaces and drivers for avionic cockpit hardware used by the ForeFlight iPad application. Guided meetings between several third-party hardware and software vendors to create a single compatible API, which reduced ForeFlight labor constraints. Created a standard procedure for which new vendors could easily adapt hardware and software to work for ForeFlight framework. Identified and fixed several outstanding bugs found in previous hardware drivers. Educated software developers on data modeling and simple machine learning, and then implemented a quadratic regression algorithm which reduced overall compute costs in the application.
+
+* February 2013 to July 2014: R&D Engineer
+  * TrackingPoint
+  * Duties included: Led, Proposed, and implemented two engineering projects, one of which was a high reliability autonomous robot used to test system tracking accuracy. Debugged, developed, and tested software and hardware for the newly created precision guided system using a combination of Matlab and C/C++. Development projects included tweaking computer vision tracking algorithms, maintaining the custom embedded Linux kernel, modification of hardware drivers, and adding additional features to the iOS applications. A full time position was offered following graduation.
+
+* May 2012 to February 2013: Real-time Software Developer
+  * International Business Machines
+  * Duties included: Created a dependable Automatic Build Verification Process for the iOS Sametime software suite. Guided fellow intern to complete a compatible Android counterpart. Met project guidelines of creating a testing framework that was both expendable and had tests that were intuitive to developers and testers. IBM extended the internship after the project was complete and moved me on the development team to work on the iOS Sametime application.
+
+* November 2010 to May 2012: Software Developer
+  * RW3 Technologies
+  * Duties included: Developed software in a test driven, agile environment using C#, ASP .NET and MSSQL in a MVC framework to deliver custom solutions to clients. Maintained and upgraded a large repository of legacy PHP code alongside a team of developers. Organized and led two developers to create RW3’s first iOS core product, which became the largest portion of their business revenue.
+
+* October 2009 to October 2010: Undergraduate Research Assistant
+  * University of Texas at Austin
+  * Duties included: Conducted research and development of the custom software GNSS receiver built in collaboration with Cornell University. Created a multithreaded Java application used to monitor and control several receivers, which was later incorporated into the curriculum of a GPS course offered at Cornell University. Designed and built custom PCBs for the use on an Antarctic deployment and for a small satellite mission. Completed a graduate course on signal processing and GPS navigation.
+
+* August 2008 to November 2009: Business Intelligence Intern
+  * MPower Labs
+  * Duties included: Created financial reports using a combination of the Cognos Business Intelligence suite and Oracle SQL Queries. Conducted meetings to discuss reporting gaps and how reports can provide a deeper insight into the company. Developed jobs to handle Automated Clearing House transactions and other international financial data.
+
+* May 2008 to August 2008: Computer Technician
+  * Computer Nerdz!
+  * Duties included: Served clientele by analyzing problems and providing comprehensive solutions for any computer-related problem. Evaluated, tested, and repaired computers that field technicians were unable to resolve. Managed the storefront, when the supervisor was not present, by assisting customers that brought in computers to be repaired.
+
+* February 2008 to May 2008: Computer Engineer Intern
+  * International Gaming Technology
+  * Duties included: Created a distributed Monte Carlo simulation to gather slot machine game result statistics. The statistics were parsed and formatted into a report for easy management level consumption.
+
+* December 2005 to July 2007: Computer Technician
+  * Computer Nerdz!
+  * Duties included: Served clientele by analyzing problems and providing comprehensive solutions for any computer-related problem. Evaluated, tested, and repaired computers that field technicians were unable to resolve. Managed the storefront, when the supervisor was not present, by assisting customers that brought in computers to be repaired.
+
+* January 2005 to December 2005: Computer Sales Associate
+  * Best Buy
+  * Duties included: Provided customer support and sales in the computer department as a non-commissioned sales representative. Assisted with clientele questions and concerns regarding desktops, laptop PCs, and other computer hardware and equipment.
+
+* May 2004 to August 2004: Tivoli Intern
+  * International Business Machines
+  * Duties included: Maintained large rack servers, tested web management software, and worked with various operating systems including AIX, various distributions of Linux, Microsoft Windows, and Sun Solaris. Developed technical instructions for internal use and conducted over-the-phone technical support for employee hardware maintenance issues. Setup services, such as DHCP, DNS, SAMBA, VPN, and Apache.
+
 Skills
 ======
 * Skill 1
@@ -42,17 +93,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
