@@ -18,17 +18,17 @@ Education
 
 Work experience
 ======
-### EyeLock
-#### September 2018 to Present: Lead R&D Engineer
-> System Architect and Lead R&D Engineer for Iris recognition technology. Created roadmaps and project schedules for future features and products. Led the Embedded Algorithm and R&D teams to design novel vision algorithms and verification tools that enhance the overall product stability and feature set. Mentored teams to produce consistent, updated, and reliable code that works in multiple environments. Worked with R&D Team to produce simulation software to accurately predict hardware performance, with the intention of estimating hardware yields and future designs.
+### EyeLock: Lead R&D Engineer
+#### September 2018 to Present
+:   System Architect and Lead R&D Engineer for Iris recognition technology. Created roadmaps and project schedules for future features and products. Led the Embedded Algorithm and R&D teams to design novel vision algorithms and verification tools that enhance the overall product stability and feature set. Mentored teams to produce consistent, updated, and reliable code that works in multiple environments. Worked with R&D Team to produce simulation software to accurately predict hardware performance, with the intention of estimating hardware yields and future designs.
 
-### Advanced Micro Devices
-#### June 2017 to September 2018: Scientific Applications Researcher
-> Worked with a small team to write several proposals, including the winning $600 Million DoE Frontier contract. Liaised with The Department of Energy to study exascale computing architectures and conduct research on elements critical to building the next generation supercomputer. Worked with lead scientist to port hydrodynamics, molecular dynamics, and neutron transport applications to run on AMD hardware while simultaneously consulted with low-level hardware specialist to create simulations. Interfaced between the DOE and other AMD research teams to provide consistent software solutions throughout AMD Research. Presented research to company wide meetings in order to drive the development of hardware to accommodate general HPC application trends. Identified overlap in contractual software requirements and managed the consolidation effort. Used a combination of HCC/C++AMP, C, C++ 11/17, Fortran, OpenMP 3.1/4.5, OpenACC, MPI, and OpenCL to complete this research.
-  
-## September 2016 to June 2017: O'Donnell PhD Fellow
-### The University of Texas at Austin (Oden Institute)
-  * Full-time PhD studies and research for Computational Science, Engineering, and Mathematics. Received Stipend and Fellowship from the O'Donnell Foundation.
+### Advanced Micro Devices: Scientific Applications Researcher
+#### June 2017 to September 2018
+:   Worked with a small team to write several proposals, including the winning $600 Million DoE Frontier contract. Liaised with The Department of Energy to study exascale computing architectures and conduct research on elements critical to building the next generation supercomputer. Worked with lead scientist to port hydrodynamics, molecular dynamics, and neutron transport applications to run on AMD hardware while simultaneously consulted with low-level hardware specialist to create simulations. Interfaced between the DOE and other AMD research teams to provide consistent software solutions throughout AMD Research. Presented research to company wide meetings in order to drive the development of hardware to accommodate general HPC application trends. Identified overlap in contractual software requirements and managed the consolidation effort. Used a combination of HCC/C++AMP, C, C++ 11/17, Fortran, OpenMP 3.1/4.5, OpenACC, MPI, and OpenCL to complete this research.
+
+### The University of Texas at Austin (Oden Institute): O'Donnell PhD Fellow
+#### September 2016 to June 2017
+:   Full-time PhD studies and research for Computational Science, Engineering, and Mathematics. Received Stipend and Fellowship from the O'Donnell Foundation.
 
 * August 2014 to September 2016: Scientific Applications Researcher
   * Advanced Micro Devices
