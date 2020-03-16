@@ -31,6 +31,7 @@ Work Experience
 ======
 ### EyeLock
 _Director of Research Development, September 2018 to Present_
+  
 System Architect and Lead R&D Engineer for Iris recognition technology. Created roadmaps and project schedules for future features and products. Led the Embedded Algorithm and R&D teams to design novel vision algorithms and verification tools that enhance the overall product stability and feature set. Mentored teams to produce consistent, updated, and reliable code that works in multiple environments. Worked with R&D Team to produce simulation software to accurately predict hardware performance, with the intention of estimating hardware yields and future designs.
 
 ### Advanced Micro Devices
