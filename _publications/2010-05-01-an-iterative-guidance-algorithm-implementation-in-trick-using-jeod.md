@@ -17,5 +17,6 @@ The physical simulation consists of a set of differential equations integrated w
 The body of this final report presents the objectives of this project, the mathematical grounding of the algorithm, and discussion of the interaction between the various Trick source and model files. Finally, the results are illustrated, along with some of the major obstacles encountered in an attempt to integrate the targeter with JEOD. Suggestions are made for future study of the interaction between the Monte Carlo framework and JEOD, and the implementation of more advanced targeters in Trick.
 
 [Download paper here](https://ztschir.github.io/files/TrickIterativeTargetingAlgorithmInTheMonteCarloFrameworkReport.pdf)
+
 [Download presentation here](https://ztschir.github.io/files/TrickIterativeTargetingAlgorithmInTheMonteCarloFrameworkPresentation.pptx)
 
