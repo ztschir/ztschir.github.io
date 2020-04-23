@@ -11,7 +11,6 @@ In summary, PROPHECY aims to prove the ability of CubeSats to act as reliable sh
 date: 2014-05-02
 venue: 'The University of Texas at Austin'
 paperurl: 'https://ztschir.github.io/files/PROPHECYReport.pdf'
-citation: ''
 ---
 This document contains a proposal of a near-earth CubeSat mission to serve as a demonstration of high efficiency Laser Optical Communication using high precision Attitude, Determination, and Control (ADC) systems in order to meet the specific pointing accuracies required to operate in a free-space environment.
 The PRecision OPerations for High Efficiency Communication sYstems (PROPHECY) mission was created to demonstrate that high ADC accuracy and precision in swiftly developed, low-cost satellites can adequately meet the needs of future communications networks without significant detriment to mission budgets, be that time or monetary constraints. State-of-the-art Free-Space Optical Laser Communication (LaserCom) technologies will be used to analyze and quantify the specifications of the ADC system. LaserCom requires pointing accuracies on order of tens of arcseconds - equivalent to a few thousandths of a degree.

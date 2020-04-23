@@ -9,7 +9,6 @@ The body of this final report presents the objectives of this project, the mathe
 date: 2010-05-01
 venue: 'UT/JSC Trick Modeling Initiative 2010'
 paperurl: 'https://ztschir.github.io/files/TrickIterativeTargetingAlgorithmInTheMonteCarloFrameworkReport.pdf'
-citation: 'N/A'
 ---
 The present study focuses on the implementation of an iterative targeting algorithm within a Trick simulation environment. A team of undergraduate research students at The University of Texas at Austin accomplished the investigation and software implementation. The simulation developed seeks to identify the impulsive maneuver required by a spacecraft to transfer between two arbitrary points in Earth orbit. The initial state and the terminal position vector are inputs to the Trick simulation. Then, Trick’s built-in Monte Carlo master/slave framework is leveraged to converge on the impulsive maneuver required for the spacecraft to initiate the transfer. The spacecraft trajectory modeling is accomplished through Trick with simple, two-body, point mass equations of motion.
 The targeting algorithm relies on the availability of the state transition matrix (STM). To facilitate a generalized force model and future JSC Engineering Orbital Dynamics (JEOD) implementation, the STM is constructed with a finite differencing algorithm. Thus, the Trick simulation developed in this report is divided into three routines: the physical simulation, the finite differencing process, and the targeting process.
