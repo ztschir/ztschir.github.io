@@ -21,7 +21,7 @@ Certifications, Training, Etc.
 * Certificate in Computational Science and Engineering
 * Peter O'Donnell Graduate Fellowship
 * Co-op Graduate Certification
-* Professional Engineer (Texas)
+* Professional Engineer (Pending)
 * C/TRICK NASA Training Seminar Completion Certification
 * General Class Radio License
 * Lean Six-sigma Green Belt
