@@ -16,16 +16,17 @@ Education
 * B.S. in Mathematics, The University of Texas at Austin
 * M.S. in Computational Science, Engineering, and Mathematics, The University of Texas at Austin
 
-Certifications, Training, Etc.
+Certifications, Training, Awards, Etc.
 ======
 * Certificate in Computational Science and Engineering
 * Peter O'Donnell Graduate Fellowship
 * Co-op Graduate Certification
 * Professional Engineer (Pending)
-* C/TRICK NASA Training Seminar Completion Certification
+* C/TRICK NASA Training Certification
 * General Class Radio License
 * Lean Six-sigma Green Belt
 * ACM Student Cluster Competition SC13 Overall Winner
+* PEARC20 Best Student Paper Award
 
 Work Experience
 ======
