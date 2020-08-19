@@ -23,5 +23,3 @@ An exploration of a variety of off-the-shelf clustering methods was completed to
 <a href="https://www.hpcwire.com/off-the-wire/oden-institutes-csem-graduate-wins-best-student-paper-at-pearc-2020/?utm_source=rss&utm_medium=rss&utm_campaign=oden-institutes-csem-graduate-wins-best-student-paper-at-pearc-2020">Article 1<a>
 
 <a href="https://www.oden.utexas.edu/about/news/CSEMGraduateBestStudentPaperPEARC20/?utm_source=Oden+Institute&utm_campaign=ec27d0dc83-EMAIL_CAMPAIGN_2020_03_11_08_07_COPY_01&utm_medium=email&utm_term=0_c046254644-ec27d0dc83-22650117">Article 2<a>
-
-Recommended citation: Tschirhart, Zachary S., and Karl W. Schulz. "Evaluation of Clustering Techniques for GPS Phenotyping Using Mobile Sensor Data." Practice and Experience in Advanced Research Computing. 2020. 364-371.
