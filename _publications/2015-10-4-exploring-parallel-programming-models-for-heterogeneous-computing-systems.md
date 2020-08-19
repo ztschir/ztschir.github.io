@@ -13,5 +13,3 @@ Parallel systems that employ CPUs and GPUs as two heterogeneous computational un
 [Download pre-print paper here](https://ztschir.github.io/files/ExploringParallelProgrammingModelsForHeterogeneousComputingSystems.pdf)
 
 [Download published paper](https://ieeexplore.ieee.org/abstract/document/7314151)
-
-Recommended citation: Daga, Mayank, Zachary S. Tschirhart, and Chip Freitag. "Exploring parallel programming models for heterogeneous computing systems." 2015 IEEE International Symposium on Workload Characterization. IEEE, 2015.
