@@ -21,7 +21,7 @@ Certifications, Training, Awards, Etc.
 * Certificate in Computational Science and Engineering
 * Peter O'Donnell Graduate Fellowship
 * Co-op Graduate Certification
-* Professional Engineer (Pending)
+* Professional Engineer (Texas License Number 139397)
 * C/TRICK NASA Training Certification
 * General Class Radio License
 * Lean Six-sigma Green Belt
