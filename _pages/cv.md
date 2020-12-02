@@ -20,18 +20,23 @@ Certifications, Training, Awards, Etc.
 ======
 * Certificate in Computational Science and Engineering
 * Peter O'Donnell Graduate Fellowship
-* Co-op Graduate Certification
 * Professional Engineer (Texas License Number 139397)
+* PEARC20 Best Student Paper Award
+* ACM Student Cluster Competition SC13 Overall Winner
+* Lean Six-sigma Green Belt
 * C/TRICK NASA Training Certification
 * General Class Radio License
-* Lean Six-sigma Green Belt
-* ACM Student Cluster Competition SC13 Overall Winner
-* PEARC20 Best Student Paper Award
+* Co-op Graduate Certification
 
 Work Experience
 ======
+### Southwest Research Institute
+_Lead Computer Scientist, October 2020 to Present_
+
+Led a team of software engineers to support development in the Department of Space Avionics. More generally lead, design, develop, and verify mission, spacecraft and instrument flight software for a variety of space applications.
+
 ### EyeLock
-_Director of Research Development, September 2018 to Present_
+_Director of Research Development, September 2018 to October 2020_
   
 System Architect and Lead R&D Engineer for Iris recognition technology. Created roadmaps and project schedules for future features and products. Led the Embedded Algorithm and R&D teams to design novel vision algorithms and verification tools that enhance the overall product stability and feature set. Mentored teams to produce consistent, updated, and reliable code that works in multiple environments. Worked with R&D Team to produce simulation software to accurately predict hardware performance, with the intention of estimating hardware yields and future designs.
   
