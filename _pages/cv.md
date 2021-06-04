@@ -18,11 +18,12 @@ Education
 
 Certifications, Training, Awards, Etc.
 ======
-* Certificate in Computational Science and Engineering
-* Peter O'Donnell Graduate Fellowship
 * Professional Engineer (Texas License Number 139397)
+* Private Pilot License
 * PEARC20 Best Student Paper Award
 * ACM Student Cluster Competition SC13 Overall Winner
+* Certificate in Computational Science and Engineering
+* Peter O'Donnell Graduate Fellowship
 * Lean Six-sigma Green Belt
 * C/TRICK NASA Training Certification
 * General Class Radio License
