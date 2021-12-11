@@ -31,8 +31,13 @@ Certifications, Training, Awards, Etc.
 
 Work Experience
 ======
+### Hewlett Packard Enterprise
+_Manager Systems/Software Engineer II, November 2021 to Present_
+
+Manage teams responsible for the Fortran compiler frontend/runtime, Cray compiler modules/environment, and CI/CD development. Teams implement new Fortran language standards and OpenMP/OpenACC parallel programming models for the Fortran compiler, targeting a variety of heterogeneous CPU and GPU architectures.
+
 ### Southwest Research Institute
-_Lead Computer Scientist, October 2020 to Present_
+_Lead Computer Scientist, October 2020 to November 2021_
 
 Led a team of software engineers to support development in the Department of Space Avionics. More generally lead, design, develop, and verify mission, spacecraft and instrument flight software for a variety of space applications.
 
