@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zachary Tschirhart"
 title_separator          : "-"
-name                     : &name "Zachary S. Tschirhart"
+name                     : &name "Zachary Tschirhart"
 description              : &description "Zachary Tschirhart"
 url                      : https://tschirh.art
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
