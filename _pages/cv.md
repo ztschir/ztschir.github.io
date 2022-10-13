@@ -19,7 +19,7 @@ Education
 Certifications, Training, Awards, Etc.
 ======
 * Professional Engineer (Texas License Number 139397)
-* Private Pilot License
+* Private Pilot License (Instrument Rated)
 * PEARC20 Best Student Paper Award
 * ACM Student Cluster Competition SC13 Overall Winner
 * Certificate in Computational Science and Engineering
@@ -35,6 +35,11 @@ Work Experience
 _Manager Systems/Software Engineer II, November 2021 to Present_
 
 Manage teams responsible for the Fortran compiler frontend/runtime, Cray compiler modules/environment, and CI/CD development. Teams implement new Fortran language standards and OpenMP/OpenACC parallel programming models for the Fortran compiler, targeting a variety of heterogeneous CPU and GPU architectures.
+
+### Busco Engineering, PC
+_President, January 2020 to Present_
+
+Professional Engineering Firm that supports Computer Vision, Artificial Intelligence, and Machine Learning 
 
 ### Southwest Research Institute
 _Lead Computer Scientist, October 2020 to November 2021_
