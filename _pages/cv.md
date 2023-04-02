@@ -32,11 +32,11 @@ Certifications, Training, Awards, Etc.
 Work Experience
 ======
 ### Hewlett Packard Enterprise
-_Software Engineering Manager II, February 2023 to Present_
+_Senior Software Engineering Manager, February 2023 to Present_
 
 Drive strategy of the Cray Compiler Environment in the Cray Programming Environment group for cloud and on-prem solutions. Also, provide direction for Cray User Experience and several strategic software system initiatives.
 
-_Software Engineering Manager I, November 2021 to February 2023_
+_Software Engineering Manager, November 2021 to February 2023_
 
 Manage teams responsible for Cray Compiler Environment teams: Fortran compiler frontend/runtime, Cray compiler modules/environment, and CI/CD development. Teams implement new Fortran language standards and OpenMP/OpenACC parallel programming models for the Fortran compiler, targeting a variety of heterogeneous CPU and GPU architectures.
 
