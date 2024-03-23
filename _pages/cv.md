@@ -34,7 +34,7 @@ Work Experience
 ### Hewlett Packard Enterprise
 _Senior Software Engineering Manager, February 2023 to Present_
 
-Drive strategy of the Cray Compiler Environment in the Cray Programming Environment group for cloud and on-prem solutions. Also, provide direction for Cray User Experience and several strategic software system initiatives.
+Drive strategy for the Cray Compiler and the Cray Supercomputer Programming Environment groups for cloud and on-premise solutions, which includes several customer systems such as Frontier. Foster a culture of quality first with light process improvements within the group, then use this model to influence the HPC/AI Business Unit to move to modern software engineering practices. Major initiatives include moving to web-based documentation w/LLMs, creating an internal wiki, improving testing visibility with custom dashboards, and changing to a packaged-based continuous software deployment scheme.
 
 _Software Engineering Manager, November 2021 to February 2023_
 
