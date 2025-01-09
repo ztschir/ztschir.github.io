@@ -82,9 +82,9 @@ atom_feed:
 author:
   name             : "Zachary S. Tschirhart, P.E."
   avatar           : "Portrait.JPG"
-  bio              : "HPC Software Engineering Professional"
+  bio              : "HPC/AI Software Engineering Professional"
   location         : "Austin, TX"
-  employer         : "HPE Cray"
+  employer         : "Sustainment"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=xSH5raQAAAAJ"
   email            : "zach@tschirh.art"
