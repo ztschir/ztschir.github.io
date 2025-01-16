@@ -31,8 +31,13 @@ Certifications, Training, Awards, Etc.
 
 Work Experience
 ======
+### Sustainment
+_Vice President of Data Science, January 2025 to Present_
+
+Responsible for developing and executing the strategic vision for Sustainments Data Science and Artificial Intelligence initiatives, including designing innovative solutions, leading the implementation of advanced analytics, and driving the adoption of AI technologies.
+
 ### Hewlett Packard Enterprise
-_Senior Software Engineering Manager, February 2023 to Present_
+_Senior Software Engineering Manager, February 2023 to January 2025_
 
 Drive strategy for the Cray Compiler and the Cray Supercomputer Programming Environment groups for cloud and on-premise solutions, which includes several customer systems such as Frontier. Foster a culture of quality first with light process improvements within the group, then use this model to influence the HPC/AI Business Unit to move to modern software engineering practices. Major initiatives include moving to web-based documentation w/LLMs, creating an internal wiki, improving testing visibility with custom dashboards, and changing to a packaged-based continuous software deployment scheme.
 
