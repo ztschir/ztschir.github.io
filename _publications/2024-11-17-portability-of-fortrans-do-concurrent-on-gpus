@@ -1,0 +1,11 @@
+---
+title: "Portability of Fortrans do concurrent on GPUs"
+collection: publications
+permalink: /publication/2024-11-17-portability-of-fortrans-do-concurrent-on-gpus
+excerpt: 'There is a continuing interest in using standard language constructs for accelerated computing in order to avoid (sometimes vendor-specific) external APIs. For Fortran codes, the do concurrent (DC) loop has been successfully demonstrated on the NVIDIA platform. However, support for DC on other platforms has taken longer to implement. Recently, Intel has added DC GPU offload support to its compiler, as has HPE for AMD GPUs. In this paper, we explore the current portability of using DC across GPU vendors using the in-production solar surface flux evolution code, HipFT. We discuss implementation and compilation details, including when/where using directive APIs for data movement is needed/desired compared to using a unified memory system. The performance achieved on both data center and consumer platforms is shown.'
+date: 2024-11-17
+venue: 'SC24'
+paperurl: '10.1109/SCW63240.2024.00240'
+citation: 'Caplan, Ronald M., Miko M. Stulajter, Jon A. Linker, Jeff Larkin, Henry A. Gabb, Shiquan Su, Ivan Rodriguez, Zachary Tschirhart, and Nicholas Malaya. "Portability of Fortran’s ‘do concurrent’on GPUs." In SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1904-1913. IEEE, 2024.'
+---
+There is a continuing interest in using standard language constructs for accelerated computing in order to avoid (sometimes vendor-specific) external APIs. For Fortran codes, the do concurrent (DC) loop has been successfully demonstrated on the NVIDIA platform. However, support for DC on other platforms has taken longer to implement. Recently, Intel has added DC GPU offload support to its compiler, as has HPE for AMD GPUs. In this paper, we explore the current portability of using DC across GPU vendors using the in-production solar surface flux evolution code, HipFT. We discuss implementation and compilation details, including when/where using directive APIs for data movement is needed/desired compared to using a unified memory system. The performance achieved on both data center and consumer platforms is shown.'
