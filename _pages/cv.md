@@ -32,18 +32,19 @@ Certifications, Training, Awards, Etc.
 Work Experience
 ======
 ### Sustainment
-_Vice President of Data Science, January 2025 to Present_
+_Vice President of Technology, January 2025 to Present_
 
-Responsible for developing and executing the strategic vision for Sustainments Data Science and Artificial Intelligence initiatives, including designing innovative solutions, leading the implementation of advanced analytics, and driving the adoption of AI technologies.
+Responsible for defining and executing the strategic vision for Sustainment’s Data Science and Engineering functions, with a focus on enabling resilient and intelligent supply chains through advanced technology. Lead cross-functional teams in the design and deployment of cutting-edge data architectures, scalable machine learning systems, and secure, cloud-native infrastructure. Drive the end-to-end implementation of advanced analytics and AI solutions that empower sourcing intelligence, supplier discovery, and decision automation across manufacturing networks.
 
 ### Hewlett Packard Enterprise
 _Senior Software Engineering Manager, February 2023 to January 2025_
 
-Drive strategy for the Cray Compiler and the Cray Supercomputer Programming Environment groups for cloud and on-premise solutions, which includes several customer systems such as Frontier. Foster a culture of quality first with light process improvements within the group, then use this model to influence the HPC/AI Business Unit to move to modern software engineering practices. Major initiatives include moving to web-based documentation w/LLMs, creating an internal wiki, improving testing visibility with custom dashboards, and changing to a packaged-based continuous software deployment scheme.
+Spearheaded strategic initiatives for the Cray Compiler and Cray Supercomputer Programming Environment teams, delivering high-performance, portable developer solutions for HPE’s industry-leading supercomputers. Championed a culture of quality and modernized software engineering practices, influencing the HPC/AI Business Unit to adopt process improvements.
+Achievements include: Transitioned to web-based documentation leveraging LLMs and implemented an internal wiki for streamlined knowledge sharing; Enhanced testing visibility through custom dashboards and improved software reliability with a packaged-based continuous deployment framework; Shifted teams toward a production and customer-focused development model from a research-oriented focus, ensuring faster and more impactful delivery cycles. Engage with the community by participating in committees (SC Applications, HPCTESTS, WACCPD, etc.) and guiding the High-performance Software Foundations (HPSF) Technical Advisory Committee.
 
 _Software Engineering Manager, November 2021 to February 2023_
 
-Manage teams responsible for Cray Compiler Environment teams: Fortran compiler frontend/runtime, Cray compiler modules/environment, and CI/CD development. Teams implement new Fortran language standards and OpenMP/OpenACC parallel programming models for the Fortran compiler, targeting a variety of heterogeneous CPU and GPU architectures.
+Managed teams driving innovation in the Cray Compiler Environment, including the Fortran compiler frontend/runtime, compiler modules, and CI/CD development. Implementing new Fortran language standards and advanced parallel programming models (OpenMP/OpenACC) to optimize performance across diverse CPU and GPU architectures. Delivered scalable, high-performance solutions that enhanced developer productivity and supported cutting-edge HPC workloads.
 
 ### Busco Engineering, PC
 _President, January 2020 to Present_
